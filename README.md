@@ -12,4 +12,3 @@ A responsive, festive web project built with **Vue.js**, **Nuxt.js**, and **Tail
 
 📫 **Let's Connect!**  
 - Email: [masonshorne@gmail.com](mailto:masonshorne@gmail.com)  
-- Portfolio: [Christmas-Themed Website](https://christmas-website-two.vercel.app/)
