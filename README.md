@@ -8,6 +8,8 @@ A responsive, festive web project built with **Vue.js**, **Nuxt.js**, and **Tail
 ## 📊 GitHub Stats  
 [![Mason's GitHub stats](https://github-readme-stats.vercel.app/api?username=masonscotthorne&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+
 ---
 
 📫 **Let's Connect!**  
