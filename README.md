@@ -10,6 +10,3 @@ A responsive, festive web project built with **Vue.js**, **Nuxt.js**, and **Tail
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 ---
-
-📫 **Let's Connect!**  
-- Email: [masonshorne@gmail.com](mailto:masonshorne@gmail.com)  
